@@ -1,0 +1,6 @@
+{
+  "name": "RIK AI",
+  "description": "RIK AI - Intelligent, multilingual assistant fluent in English, Bengali, and Hindi with productivity, culinary, humor, and image prompt capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
